@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="EmployeeAI.AI/EmployeeAI.AI.csproj" />
+  <Project Path="EmployeeAI.Api/EmployeeAI.Api.csproj" />
+  <Project Path="EmployeeAI.Application/EmployeeAI.Application.csproj" />
+  <Project Path="EmployeeAI.Infrastructure/EmployeeAI.Infrastructure.csproj" />
+</Solution>
