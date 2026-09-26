@@ -1,10 +1,12 @@
-﻿using System;
+﻿using EmployeeAI.Application.Services.Abstractions;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace EmployeeAI.Application.Services
 {
-    internal class LeaveService
+    /*public class LeaveService:ILeaveService
     {
-    }
+
+    }*/
 }

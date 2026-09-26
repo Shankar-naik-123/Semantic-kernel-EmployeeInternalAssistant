@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Models\" />
+    <ProjectReference Include="..\EmployeeAI.AI\EmployeeAI.AI.csproj" />
   </ItemGroup>
 
 </Project>
